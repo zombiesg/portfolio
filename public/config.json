@@ -1,0 +1,40 @@
+{
+    "personal":{
+        "name":"Steven Heryanto",
+        "desc":"Saya fresh graduate S1 Teknik Informatika Universitas Bunda Mulia. Saya suka membuat website disaat waktu kosong. Saya memilih belajar membuat Website karena mudah diakses dan dapat menggunakan perangkat yang cukup murah."
+    },
+    "project":[
+        {
+            "title": "Kocket",
+            "desc": "Website berisi fitur - fitur yang terkadang dipakai semasa kuliah. Website ini dibuat saat waktu luang, karena website lain yang saya pakai biasanya punya iklan yang mengganggu. Dibuat dengan React.js dan Typescript ",
+            "image": "/img/kocket.png",
+            "linkDemo": "https://kocket.netlify.app/",
+            "linkSrcCode": ""
+          },
+          {
+            "title": "Synctimewin",
+            "desc": "Dibuat dengan c# untuk sinkronisasi waktu untuk laptop yang tidak dapat menyimpan waktu. Melakukan sinkronisasi saat terhubung ke internet",
+            "image": "/img/synctimewin.png",
+            "linkDemo": "",
+            "linkSrcCode": "https://github.com/zombiesg/synctimewin"
+          },
+          {
+            "title": "Epic Free Game Notif",
+            "desc": "Dibuat dengan JavaScript untuk memberikan notifikasi pada channel discord, jika ada game gratis di Epic Store.",
+            "image": "/img/epic-free-game-notif.png",
+            "linkDemo": "",
+            "linkSrcCode": "https://github.com/zombiesg/epic-free-games-notif"
+          },
+          {
+            "title": "Epic Free Games PHP",
+            "desc": "Wrapper untuk mendapat game gratis dari Epic Games API dengan PHP",
+            "image": "/img/Epic-Free-Games-PHP.png",
+            "linkDemo": "",
+            "linkSrcCode": "https://github.com/zombiesg/Epic-Free-Games-PHP"
+          }
+    ],
+    "footerLink":{
+        "linkedin":"https://github.com/zombiesg",
+        "github":"https://www.linkedin.com/in/steven-heryanto-459ab925b"
+    }
+}
