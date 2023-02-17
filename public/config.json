@@ -31,6 +31,13 @@
             "image": "/img/Epic-Free-Games-PHP.png",
             "linkDemo": "",
             "linkSrcCode": "https://github.com/zombiesg/Epic-Free-Games-PHP"
+          },
+          {
+            "title": "Portfolio",
+            "desc": "Website ini dibuat dengan react js",
+            "image": "/img/portfolio.png",
+            "linkDemo": "",
+            "linkSrcCode": "https://github.com/zombiesg/portfolio"
           }
     ],
     "footerLink":{
