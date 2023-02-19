@@ -27,8 +27,7 @@ function App() {
   useEffect(() => {
     if (config === undefined) {
       (async function () {
-        let url =
-          "https://raw.githubusercontent.com/zombiesg/portfolio/main/public/config.json";
+        let url = "/config.json";
         const response = await fetch(url);
         const data = await response.json();
         setConfig(data);

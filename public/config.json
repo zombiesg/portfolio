@@ -7,35 +7,35 @@
         {
             "title": "Kocket",
             "desc": "Website berisi fitur - fitur yang terkadang dipakai semasa kuliah. Website ini dibuat saat waktu luang, karena website lain yang saya pakai biasanya punya iklan yang mengganggu. Dibuat dengan React.js dan Typescript ",
-            "image": "https://github.com/zombiesg/portfolio/blob/main/public/img/kocket.png?raw=true",
+            "image": "/img/kocket.png",
             "linkDemo": "https://kocket.netlify.app/",
             "linkSrcCode": ""
           },
           {
             "title": "Synctimewin",
             "desc": "Dibuat dengan c# untuk sinkronisasi waktu untuk laptop yang tidak dapat menyimpan waktu. Melakukan sinkronisasi saat terhubung ke internet",
-            "image": "https://github.com/zombiesg/portfolio/blob/main/public/img/synctimewin.png?raw=true",
+            "image": "/img/synctimewin.png",
             "linkDemo": "",
             "linkSrcCode": "https://github.com/zombiesg/synctimewin"
           },
           {
             "title": "Epic Free Game Notif",
             "desc": "Dibuat dengan JavaScript untuk memberikan notifikasi pada channel discord, jika ada game gratis di Epic Store.",
-            "image": "https://github.com/zombiesg/portfolio/blob/main/public/img/epic-free-game-notif.png?raw=true",
+            "image": "/img/epic-free-game-notif.png",
             "linkDemo": "",
             "linkSrcCode": "https://github.com/zombiesg/epic-free-games-notif"
           },
           {
             "title": "Epic Free Games PHP",
             "desc": "Wrapper untuk mendapat game gratis dari Epic Games API dengan PHP",
-            "image": "https://github.com/zombiesg/portfolio/blob/main/public/img/Epic-Free-Games-PHP.png?raw=true",
+            "image": "/img/Epic-Free-Games-PHP.png",
             "linkDemo": "",
             "linkSrcCode": "https://github.com/zombiesg/Epic-Free-Games-PHP"
           },
           {
             "title": "Portfolio",
             "desc": "Website ini dibuat dengan react js",
-            "image": "https://github.com/zombiesg/portfolio/blob/main/public/img/portfolio.png?raw=true",
+            "image": "/img/portfolio.png",
             "linkDemo": "",
             "linkSrcCode": "https://github.com/zombiesg/portfolio"
           }
