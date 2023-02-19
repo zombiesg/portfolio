@@ -1,6 +1,7 @@
 #https://gist.github.com/umanghome/30527c68cd605dfef8702a832ff14fd5
 #https://github.com/facebook/create-react-app/discussions/10220
 #https://stackoverflow.com/questions/63445967/githubs-action-is-not-building-react-application
+#trigger 19/2/2023 19:16
 name: Generate a build and push to another branch
 
 on:
