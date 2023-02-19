@@ -9,12 +9,15 @@ on:
     branches:
       - main
       
-permissions: read-all|write-all
+
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Build and Push
+    
+    permissions: write-all
+    
     steps:
       - name: git-checkout
         uses: actions/checkout@v2
